@@ -1,0 +1,14 @@
+name: bin_serv
+version: 0.1.0
+
+authors:
+  - qchmqs <achmas@live.fr>
+
+description: |
+  a binary server that replies to post on /
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+license: Proprietary
