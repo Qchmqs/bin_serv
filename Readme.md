@@ -2,8 +2,16 @@
 
 Install crystal and shards:
 
+## on centos
+
 > yum install crystal shards
-> on centos
+
+## on archlinux
+
+> pacman -Syu crystal shards
+
+For more info:
+https://crystal-lang.org/install/
 
 # Install dependencies
 
